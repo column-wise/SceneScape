@@ -1,2 +1,2 @@
 ## 시연 영상
-![](https://youtu.be/Df0Ztb3hFNI)
+[시연 영상 보기](https://youtu.be/Df0Ztb3hFNI)
